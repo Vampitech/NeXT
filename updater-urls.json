@@ -1,0 +1,12 @@
+{
+    "cfws": {
+        "Atmosphere": {
+            "NeXT 3.11": "https://codeberg.com/vampitech/next/releases/download/3.11/NeXT.zip"
+        }
+    },
+    "firmwares": {
+        "17.0.1": "https://github.com/THZoria/NX_Firmware/releases/download/17.0.1/Firmware.17.0.1.zip",
+        "17.0.1 (alternative link)": "https://mega.nz/file/ZZABkaiI#idFS2nD_HqvZa-NG5s1odDr0c7RCGMm8exsLFagHyYA",
+        "17.0.1 (alternative link; slower)": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%2017.0.1.zip"
+    }
+}
