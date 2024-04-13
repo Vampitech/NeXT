@@ -5,8 +5,14 @@
         }
     },
     "firmwares": {
+        "18.0.0":"https://github.com/THZoria/NX_Firmware/releases/download/18.0.0/Firmware.18.0.0.zip",
+        "18.0.0 (Mega)":"https://mega.nz/file/tFBCBI6B#Hi0mZFb4tP5VRsAJKjKaM24FDlZFUCw9EsqCoclJZBo",
+        "18.0.0 (archive.org, lento/slower)":"https://archive.org/download/nintendo-switch-global-firmwares/Firmware%2018.0.0.zip",      
         "17.0.1": "https://github.com/THZoria/NX_Firmware/releases/download/17.0.1/Firmware.17.0.1.zip",
-        "17.0.1 (alternative link)": "https://mega.nz/file/ZZABkaiI#idFS2nD_HqvZa-NG5s1odDr0c7RCGMm8exsLFagHyYA",
-        "17.0.1 (alternative link; slower)": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%2017.0.1.zip"
+        "17.0.1 (Mega)": "https://mega.nz/file/ZZABkaiI#idFS2nD_HqvZa-NG5s1odDr0c7RCGMm8exsLFagHyYA",
+        "17.0.1 (archive.org, lento/slower)": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%2017.0.1.zip"
+    },
+    "mini_upd": {
+        "NeXT Minimal":"https://github.com/vampitech/NeXT/releases/download/3.11/mini.zip"
     }
 }
