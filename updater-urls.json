@@ -1,8 +1,7 @@
 {
     "cfws": {
         "Atmosphere": {
-            "NeXT - Dirty Install (Preservará configuraciones personalizadas / It will Keep custom settings)": "https://codeberg.org/vampitech/Upd-Files/releases/download/1.0/NeXT.zip",
-            "NeXT - Clean Install (Borrará configuraciones personalizadas / It will Delete custom settings)": "https://codeberg.org/vampitech/Upd-Files/releases/download/1.0/STD.zip"
+            "Actualizar ahora / Update Now": "https://codeberg.org/vampitech/Upd-Files/releases/download/1.0/NeXT.zip"
         }
     },
     "firmwares": {
