@@ -6,7 +6,7 @@
     },
     
     "mini_upd": {
-        "NeXT Min (Only new updates for hombrews and services)":"https://192.168.0.174/pruebazip/archivos.php?tipoupd=dirty"
+        "NeXT Min (Only new updates for hombrews and services)":"https://github.com/vampitech/NeXT/releases/download/1.00/mini.zip"
     },
     "firmwares": {
         "18.1.0":"https://github.com/THZoria/NX_Firmware/releases/download/18.1.0/Firmware.18.1.0.zip",
