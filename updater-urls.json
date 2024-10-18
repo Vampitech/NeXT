@@ -1,7 +1,8 @@
 {
     "cfws": {
         "Atmosphere": {
-            "Actualizar ahora / Update Now": "https://codeberg.org/vampitech/Upd-Files/releases/download/1.0/NeXT.zip"
+            "Actualizar ahora / Update Now": "https://codeberg.org/vampitech/Upd-Files/releases/download/1.0/NeXT.zip",
+            "Test": "https://codeberg.org/vampitech/Upd-Files/releases/download/1.0/NeXT.zip"
         }
     },
     
