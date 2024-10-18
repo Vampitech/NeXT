@@ -1,8 +1,8 @@
 {
     "cfws": {
         "Atmosphere": {
-            "Actualizar ahora / Update Now": "https://codeberg.org/vampitech/Upd-Files/releases/download/1.0/NeXT.zip",
-            "Test": "https://codeberg.org/vampitech/Upd-Files/releases/download/1.0/NeXT.zip"
+            "NeXT 3.30 (19.0.0)": "https://codeberg.org/vampitech/Upd-Files/releases/download/1.0/NeXT.zip",
+            "NeXT 3.20 (18.1.0)": "https://codeberg.org/vampitech/Upd-Files/releases/download/1.0/NeXT320.zip"
         }
     },
     
