@@ -1,7 +1,8 @@
 {
     "cfws": {
         "Atmosphere": {
-            "Actualizar ahora / Update Now": "https://codeberg.org/vampitech/Upd-Files/releases/download/1.0/NeXT.zip"
+            "Clean Update / Actualización Limpia": "https://vampitech.net/switch/updater/getupd.php?tipoupd=clean",
+            "Dirty Update / Actualización Sobreescrita":"https://vampitech.net/switch/updater/getupd.php?tipoupd=dirty"
         }
     },
     
@@ -9,8 +10,8 @@
         "NeXT Min (Only new updates for hombrews and services)":"https://github.com/vampitech/NeXT/releases/download/1.00/mini.zip"
     },
     "firmwares": {
-        "18.1.0":"https://github.com/THZoria/NX_Firmware/releases/download/18.1.0/Firmware.18.1.0.zip",
-        "18.1.0 (Mega)":"https://mega.nz/file/gwVEmYAT#eTVib6ifmNPnSXKbcvLBdbXCaPmmJFlQ87PolsZkTV0"
+        "19.0.0":"https://github.com/THZoria/NX_Firmware/releases/download/19.0.0/Firmware.19.0.0.zip",
+        "18.1.0":"https://github.com/THZoria/NX_Firmware/releases/download/18.1.0/Firmware.18.1.0.zip"
     }
     
 }
