@@ -10,6 +10,7 @@
         "NeXT Min (Only new updates for hombrews and services)":"https://github.com/vampitech/NeXT/releases/download/1.00/mini.zip"
     },
     "firmwares": {
+        "19.0.1":"https://github.com/THZoria/NX_Firmware/releases/download/19.0.0/Firmware.19.0.1.zip",
         "19.0.0":"https://github.com/THZoria/NX_Firmware/releases/download/19.0.0/Firmware.19.0.0.zip",
         "18.1.0":"https://github.com/THZoria/NX_Firmware/releases/download/18.1.0/Firmware.18.1.0.zip"
     }
