@@ -2,7 +2,7 @@
     "cfws": {
         "Atmosphere": {
             "Clean Update / Actualización Limpia": "https://vampitech.net/switch/updater/getupd.php?tipoupd=clean",
-            "Dirty Update / Actualización Sobreescrita":"https://vampitech.net/switch/updater/getupd.php?tipoupd=dirty"
+            "Dirty Update (Not recommended) / Actualización Sobreescrita (No recomendado)":"https://vampitech.net/switch/updater/getupd.php?tipoupd=dirty"
         }
     },
     
