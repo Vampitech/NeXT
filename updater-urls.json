@@ -7,7 +7,7 @@
     },
     
     "mini_upd": {
-        "NeXT Min (Only new updates for hombrews and services)":"https://github.com/vampitech/NeXT/releases/download/1.00/mini.zip"
+        "NeXT 3.20 (Downgrade ONLY)":"https://codeberg.org/vampitech/NeXT/releases/download/3.20/NeXT.zip"
     },
     "firmwares": {
         "19.0.1":"https://github.com/THZoria/NX_Firmware/releases/download/19.0.1/Firmware.19.0.1.zip",
