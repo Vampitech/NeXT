@@ -10,7 +10,7 @@
         "AtmoVainilla 1.8.0 (Atmosphere Vanilla !!DELETES ALL!!)":"https://github.com/Vampitech/AtmoVainilla/releases/download/1.8.0/atmos_vanilla.zip"
     },
     "firmwares": {
-        "20.0.1":"https://github.com/THZoria/NX_Firmware/releases/download/20.0.1/Firmware.20.0.1.zip"
+        "20.0.1":"https://github.com/THZoria/NX_Firmware/releases/download/20.0.1/Firmware.20.0.1.zip",
         "19.0.1":"https://github.com/THZoria/NX_Firmware/releases/download/19.0.1/Firmware.19.0.1.zip",
         "19.0.0":"https://github.com/THZoria/NX_Firmware/releases/download/19.0.0/Firmware.19.0.0.zip",
         "18.1.0":"https://github.com/THZoria/NX_Firmware/releases/download/18.1.0/Firmware.18.1.0.zip"
