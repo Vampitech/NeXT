@@ -10,6 +10,7 @@
          "AtmoVainilla 1.9.1 (Atmosphere Vanilla DELETES ALL)":"https://vampitech.net/switch/updater/getupd.php?tipoupd=atmovainilla"
      },
      "firmwares": {
+         "20.2.0":"https://github.com/THZoria/NX_Firmware/releases/download/20.2.0/Firmware.20.2.0.zip",
          "20.1.5":"https://github.com/THZoria/NX_Firmware/releases/download/20.1.5/Firmware.20.1.5.zip",
          "19.0.1":"https://github.com/THZoria/NX_Firmware/releases/download/19.0.1/Firmware.19.0.1.zip"
      }
