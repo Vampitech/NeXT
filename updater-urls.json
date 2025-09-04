@@ -1,13 +1,13 @@
 {
      "cfws": {
          "Atmosphere": {
-             "Clean Update / Actualización Limpia": "https://vampitech.net/switch/updater/getupd.php?tipoupd=clean",
-             "Dirty Update (Not recommended) / Actualización Sobreescrita (No recomendado)":"https://vampitech.net/switch/updater/getupd.php?tipoupd=dirty"
+             "Clean Update / Actualización Limpia (Recomendado)": "https://vampitech.net/switch/updater/getupd.php?tipoupd=clean",
+             "Secure Update / Actualización Segura (Conserva Mods, Temas, etc)":"https://vampitech.net/switch/updater/getupd.php?tipoupd=dirty"
          }
      },
  
      "mini_upd": {
-         "AtmoVainilla 1.9.1 (Atmosphere Vanilla DELETES ALL)":"https://vampitech.net/switch/updater/getupd.php?tipoupd=atmovainilla"
+         "AtmoVainilla 1.9.4 (Atmosphere Vanilla DELETES ALL)":"https://vampitech.net/switch/updater/getupd.php?tipoupd=atmovainilla"
      },
      "firmwares": {
          "20.4.0":"https://github.com/THZoria/NX_Firmware/releases/download/20.4.0/Firmware.20.4.0.zip",
