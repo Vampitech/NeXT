@@ -2,7 +2,7 @@
      "cfws": {
          "Atmosphere": {
              "Clean Update / Actualización Limpia (Recomendado)": "https://vampitech.net/switch/updater/getupd.php?tipoupd=clean",
-             "Secure Update / Actualización Segura (Conserva Mods, Temas, etc)":"https://vampitech.net/switch/updater/getupd.php?tipoupd=dirty"
+             "Secure Update / Actualización Segura (Conserva Mods, Temas, etc)":"https://vampitech.net/switch/updater/getupd.php?tipoupd=secure"
          }
      },
  
