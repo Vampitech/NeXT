@@ -10,6 +10,7 @@
          "Warmboot Fix 21.0.0":"https://vampitech.net/switch/updater/wbfx2100.zip"
      },
      "firmwares": {
+          "21.0.1":"https://github.com/THZoria/NX_Firmware/releases/download/20.5.0/Firmware.20.0.1.zip",
           "20.5.0":"https://github.com/THZoria/NX_Firmware/releases/download/20.5.0/Firmware.20.5.0.zip",
           "20.4.0":"https://github.com/THZoria/NX_Firmware/releases/download/20.3.0/Firmware.20.4.0.zip"
      }
