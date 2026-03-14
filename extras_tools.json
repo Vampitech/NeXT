@@ -7,7 +7,7 @@
       "url": "https://vampitech.net/switch/toolkit/assets/tfix2100.zip",
       "reboot_required": true,
       "dest": "/",
-      "confirm_message": "This will modify Atmosphere to make Tinfoil Work on 21.x.x\nAny issue before the install is under your responsability\n\nEsto es una versión de Tinfoil que modifica Atmosphere\nCualquier Problema que ocurra luego de la instalación será bajo su resposabilidad\n\n¿Continue/Continuar?"
+      "confirm_message": "This will modify Atmosphere to make Tinfoil Work on 21.x.x\nAny issue before the install is under your responsability\n\nEsto es una versión de Tinfoil que modifica Atmosphere\nCualquier Problema que ocurra luego de la instalación será bajo su responsabilidad\n\n¿Continue/Continuar?"
     },
     {
       "name": "PPSSPP - Compatibility 21.x.x",
