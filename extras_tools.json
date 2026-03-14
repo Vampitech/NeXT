@@ -15,7 +15,7 @@
       "url": "https://vampitech.net/switch/updater/extras/PPSSPP_install.nro",
       "reboot_required": false,
       "dest": "/switch/PPSSPP_install.nro",
-      "confirm_message": "This will download an PPSSPP Installer, you need to execute it in order to install the app and their Main Menu forwarder\n\nEsto descargará un Instalador de PPSSPP, necesitarás ejecutarlo desde HBMenu para instalar la app y su Forwarder\n\n¿Continue? -¿Continuar?"
+      "confirm_message": "This will download an PPSSPP Installer, you need to run it from HBMenu in order to install the app and their Main Menu forwarder\n\nEsto descargará un Instalador de PPSSPP, necesitarás ejecutarlo desde HBMenu para instalar la app y su Forwarder\n\n¿Continue? -¿Continuar?"
     }
   ]
 }
