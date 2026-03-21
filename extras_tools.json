@@ -36,7 +36,7 @@
     {
       "name": "Retroarch - Compatibility 21.x.x",
       "type": "direct",
-      "url": "https://vampitech.net/vampitech.net/switch/toolkit/assets/RetroArch.zip",
+      "url": "https://vampitech.net/switch/toolkit/assets/RetroArch.zip",
       "reboot_required": false,
       "dest": "/",
       "confirm_message": "This will download an Retroarch Installer, you need to run it from HBMenu in order to install the app and their Main Menu forwarder\n\nEsto descargará un Instalador de Retroarch, necesitarás ejecutarlo desde HBMenu para instalar la app y su Forwarder\n\n¿Continue? -¿Continuar?"
