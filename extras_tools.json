@@ -10,7 +10,7 @@
       "confirm_message": "This will apply a FIX for avoid the 'Failed to match warmboot with fuses! warning an make sleep work with SysMMC 22.0.0 and EmuMMC on Lower FW\n\nEsto aplicará un parche para evitar el aviso 'Failed to match warmboot with fuses' y hacer funcionar el modo reposo en SysNAND 22.0.0 y EmuNAND en FW bajos\n\n¿Continue/Continuar?"
     },
     {
-      "name": "Tinfoil - Compatibility 22.x.x",
+      "name": "Tinfoil - Compatibility 22.x.x by Kronos2308",
       "type": "direct",
       "url": "https://vampitech.net/switch/toolkit/assets/tfix2200.zip",
       "reboot_required": true,
