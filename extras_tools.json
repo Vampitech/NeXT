@@ -52,7 +52,7 @@
     {
       "name": "Akira (Chiaki Fork)",
       "type": "direct",
-      "url": "https://vampitech.net/switch/toolkit/assets/Akira-install.nro",
+      "url": "https://vampitech.net/switch/updater/extras/Akira-install.nro",
       "reboot_required": false,
       "dest": "/switch/Akira_install.nro",
       "confirm_message": "This will download an Akira (Chiaki Fork) Installer, you need to run it from HBMenu in order to install the app and their Main Menu forwarder\n\nEsto descargará un Instalador de Akira (Fork de Chiaki), necesitarás ejecutarlo desde HBMenu para instalar la app y su Forwarder\n\n¿Continue? -¿Continuar?"
