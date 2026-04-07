@@ -12,7 +12,7 @@
     {
       "name": "Tinfoil - Compatibility 22.1.0",
       "type": "direct",
-      "url": "https://vampitech.net/switch/toolkit/assets/tfix22100.zip",
+      "url": "https://vampitech.net/switch/toolkit/assets/tfix2210.zip",
       "reboot_required": true,
       "dest": "/",
       "confirm_message": "This will modify Atmosphere to make Tinfoil Work on 22.1.0 and Atmosphere 1.11.1.\nAny issue before the install is under your responsability\n\nEsto es una versión de Tinfoil que modifica Atmosphere.\nCualquier Problema que ocurra luego de la instalación será bajo su responsabilidad\n\n¿Continue/Continuar?"
