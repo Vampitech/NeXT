@@ -58,12 +58,12 @@
       "confirm_message": "This will download an Retroarch Installer, you need to run it from HBMenu in order to install the app and their Main Menu forwarder\n\nEsto descargará un Instalador de Retroarch, necesitarás ejecutarlo desde HBMenu para instalar la app y su Forwarder\n\n¿Continue? -¿Continuar?"
     },
     {
-      "name": "Akira (Chiaki Fork)",
+      "name": "Chiaki",
       "type": "direct",
-      "url": "https://vampitech.net/switch/updater/extras/Akira-install.nro",
+      "url": "https://vampitech.net/switch/updater/extras/chiaki-install.nro",
       "reboot_required": false,
-      "dest": "/switch/Akira_install.nro",
-      "confirm_message": "This will download an Akira (Chiaki Fork) Installer, you need to run it from HBMenu in order to install the app and their Main Menu forwarder\n\nEsto descargará un Instalador de Akira (Fork de Chiaki), necesitarás ejecutarlo desde HBMenu para instalar la app y su Forwarder\n\n¿Continue? -¿Continuar?"
+      "dest": "/switch/chiaki_install.nro",
+      "confirm_message": "This will download an Chiaki Installer, you need to run it from HBMenu in order to install the app and their Main Menu forwarder\n\nEsto descargará un Instalador de Chiaki, necesitarás ejecutarlo desde HBMenu para instalar la app y su Forwarder\n\n¿Continue? -¿Continuar?"
     },
     {
       "name": "Tico (Emulator Frontend)",
