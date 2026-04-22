@@ -10,7 +10,7 @@
       "confirm_message": "This will apply a FIX for avoid the 'Failed to match warmboot with fuses! warning an make sleep work with SysMMC 22.0.0 and EmuMMC on Lower FW\n\nEsto aplicará un parche para evitar el aviso 'Failed to match warmboot with fuses' y hacer funcionar el modo reposo en SysNAND 22.0.0 y EmuNAND en FW bajos\n\n¿Continue/Continuar?"
     },
     {
-      "name": "Tinfoil - Compatibility 22.1.0",
+      "name": "Tinfoil (Only 22.1.0)",
       "type": "direct",
       "url": "https://vampitech.net/switch/toolkit/assets/tfix2210.zip",
       "reboot_required": true,
@@ -18,7 +18,7 @@
       "confirm_message": "This will modify Atmosphere to make Tinfoil Work on 22.1.0 and Atmosphere 1.11.1.\nAny issue before the install is under your responsability\n\nEsto es una versión de Tinfoil que modifica Atmosphere.\nCualquier Problema que ocurra luego de la instalación será bajo su responsabilidad\n\n¿Continue/Continuar?"
     },    
     {
-      "name": "Tinfoil - Compatibility 22.0.0",
+      "name": "Tinfoil (Only 22.0.0)",
       "type": "direct",
       "url": "https://vampitech.net/switch/toolkit/assets/tfix2200.zip",
       "reboot_required": true,
@@ -26,7 +26,7 @@
       "confirm_message": "This will modify Atmosphere to make Tinfoil Work on 22.0.0 and Atmosphere 1.11.0.\nAny issue before the install is under your responsability\n\nEsto es una versión de Tinfoil que modifica Atmosphere.\nCualquier Problema que ocurra luego de la instalación será bajo su responsabilidad\n\n¿Continue/Continuar?"
     },
     {
-      "name": "Tinfoil - Compatibility 21.2.0",
+      "name": "Tinfoil (Only 21.2.0)",
       "type": "direct",
       "url": "https://vampitech.net/switch/toolkit/assets/tfix2100.zip",
       "reboot_required": true,
@@ -34,7 +34,7 @@
       "confirm_message": "This will modify Atmosphere to make Tinfoil Work on 21.2.0 and Atmosphere 1.10.2.\nAny issue before the install is under your responsability\n\nEsto es una versión de Tinfoil que modifica Atmosphere.\nCualquier Problema que ocurra luego de la instalación será bajo su responsabilidad\n\n¿Continue/Continuar?"
     },
     {
-      "name": "PPSSPP - Compatibility 21.x.x",
+      "name": "PPSSPP (21.0.0+)",
       "type": "direct",
       "url": "https://vampitech.net/switch/updater/extras/PPSSPP_install.nro",
       "reboot_required": false,
@@ -42,7 +42,7 @@
       "confirm_message": "This will download an PPSSPP Installer, you need to run it from HBMenu in order to install the app and their Main Menu forwarder\n\nEsto descargará un Instalador de PPSSPP, necesitarás ejecutarlo desde HBMenu para instalar la app y su Forwarder\n\n¿Continue? -¿Continuar?"
     },
     {
-      "name": "DuckStation - Compatibility 21.x.x",
+      "name": "DuckStation (21.0.0+)",
       "type": "direct",
       "url": "https://vampitech.net/switch/updater/extras/Duckstation_install.nro",
       "reboot_required": false,
@@ -50,7 +50,7 @@
       "confirm_message": "This will download an Duckstation Installer, you need to run it from HBMenu in order to install the app and their Main Menu forwarder\n\nEsto descargará un Instalador de Duckstation, necesitarás ejecutarlo desde HBMenu para instalar la app y su Forwarder\n\n¿Continue? -¿Continuar?"
     },
     {
-      "name": "Retroarch - Compatibility 21.x.x",
+      "name": "Retroarch (21.0.0+)",
       "type": "direct",
       "url": "https://vampitech.net/switch/toolkit/assets/RetroArch.zip",
       "reboot_required": false,
@@ -58,7 +58,7 @@
       "confirm_message": "This will download an Retroarch Installer, you need to run it from HBMenu in order to install the app and their Main Menu forwarder\n\nEsto descargará un Instalador de Retroarch, necesitarás ejecutarlo desde HBMenu para instalar la app y su Forwarder\n\n¿Continue? -¿Continuar?"
     },
     {
-      "name": "Chiaki",
+      "name": "Chiaki (21.0.0+)",
       "type": "direct",
       "url": "https://vampitech.net/switch/updater/extras/chiaki-install.nro",
       "reboot_required": false,
@@ -66,7 +66,7 @@
       "confirm_message": "This will download an Chiaki Installer, you need to run it from HBMenu in order to install the app and their Main Menu forwarder\n\nEsto descargará un Instalador de Chiaki, necesitarás ejecutarlo desde HBMenu para instalar la app y su Forwarder\n\n¿Continue? -¿Continuar?"
     },
     {
-      "name": "Tico (Emulator Frontend)",
+      "name": "Tico 0.7.0",
       "type": "direct",
       "url": "https://vampitech.net/switch/updater/extras/Tico-install.nro",
       "reboot_required": false,
