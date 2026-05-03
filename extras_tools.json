@@ -72,6 +72,14 @@
       "reboot_required": false,
       "dest": "/switch/Tico_install.nro",
       "confirm_message": "This will download an Tico (Emulator Frontend) Installer, you need to run it from HBMenu in order to install the app and their Main Menu forwarder\n\nEsto descargará un Instalador de Tico (Emulator Frontend), necesitarás ejecutarlo desde HBMenu para instalar la app y su Forwarder\n\n¿Continue? -¿Continuar?"
+    },
+    {
+      "name": "Ticobro (Repos Included)",
+      "type": "direct",
+      "url": "https://vampitech.net/switch/updater/extras/ticobro.zip",
+      "reboot_required": false,
+      "dest": "/",
+      "confirm_message": "This will download an Ticobro\n\nEsto descargará Ticobro\n\n¿Continue? -¿Continuar?"
     }
     
   ]
