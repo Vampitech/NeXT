@@ -80,7 +80,14 @@
       "reboot_required": false,
       "dest": "/",
       "confirm_message": "This will download an Ticobro\n\nEsto descargará Ticobro\n\n¿Continue? -¿Continuar?"
+    },
+    {
+      "name": "Flycast+ (Dreamcast Emulator)",
+      "type": "direct",
+      "url": "https://vampitech.net/switch/updater/extras/Flycastplus-installer.nro",
+      "reboot_required": false,
+      "dest": "/",
+      "confirm_message": "This will download Flycast+ Emulator who has EXPERIMENTAL SELF-OVERCLOCK feature. Please use with official chargers to make work properly. This comes with NO WARRANTY and creator o modder don't takes any responsability on damages for overheating\n\nEsto descargará el emulador Flycast+ el cual incluye OVERCLOCK EXPERIMENTAL. Por favor use cargadores oficiales para su buen funcionamiento. El creador y modders no se responsabilizan por daños en su consola por sobrecalentamiento\n\n¿Continue? -¿Continuar?"
     }
-    
   ]
 }
