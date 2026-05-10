@@ -87,7 +87,7 @@
       "url": "https://vampitech.net/switch/updater/extras/Flycastplus-installer.nro",
       "reboot_required": false,
       "dest": "/",
-      "confirm_message": "This will download the Flycast+ Emulator, which includes an experimental self-overclock feature. Please use official chargers to ensure proper operation. This software comes with no warranty, and the creator/modder does not take any responsibility for damage caused by overheating\n\nEsto descargará el emulador Flycast+, que incluye una función experimental de auto-overclock. Por favor, utiliza cargadores oficiales para garantizar un funcionamiento adecuado. Este software se proporciona sin garantía, y el creador/modder no se hace responsable de los daños causados por sobrecalentamiento."
+      "confirm_message": "This will download the Flycast+ Emulator, which includes an experimental self-overclock feature. Please use official chargers to ensure proper operation. This software comes with no warranty, and the creator/modder does not take any responsibility for damage caused by overheating or system corruption\n\nEsto descargará el emulador Flycast+, que incluye una función experimental de auto-overclock. Por favor, utiliza cargadores oficiales para garantizar un funcionamiento adecuado. Este software se proporciona sin garantía, y el creador/modder no se hace responsable de los daños causados por sobrecalentamiento o corrupción del sistema."
     }
   ]
 }
